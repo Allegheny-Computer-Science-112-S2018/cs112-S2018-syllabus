@@ -1,9 +1,9 @@
-# cs111-F2017-syllabus
+# cs112-S2018-syllabus
 
-This repository contains the syllabus for Computer Science 111 Fall 2017. To
-learn more about the course for which this syllabus was created, please
-visit the [Computer Science 111 Fall 2017 GitHub
-Organization](https://github.com/Allegheny-Computer-Science-111-F2017). All of
+This repository contains the syllabus for Computer Science 112 Spring 2018. To
+learn more about the course for which this syllabus was created, please visit
+the [Computer Science 112 Spring 2018 GitHub
+Organization](https://github.com/Allegheny-Computer-Science-112-S2018). All of
 the LaTeX files in this repository are automatically compiled with [Travis
 CI](https://travis-ci.org/), thus ensuring that they compile correctly and,
 moreover, that a PDF of each assignment is available in the GitHub repository
@@ -16,7 +16,7 @@ configuration for it will compile the source code and automatically release a
 PDF of the source code whenever the last commit is associated with a [Git
 Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging). As such, this will
 cause a PDF file to become available in the listing of the
-[Releases](https://github.com/Allegheny-Computer-Science-111-F2017/cs111-F2017-syllabus/releases)
+[Releases](https://github.com/Allegheny-Computer-Science-112-S2018/cs112-S2018-syllabus/releases)
 for this repository. All release numbers in this repository adhere to the
 [Semantic Versioning](http://semver.org/) standard.
 
